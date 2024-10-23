@@ -1,0 +1,61 @@
+.icon{
+    background-image: url(../images/icons.png);
+    display: block;
+    float: left;
+
+}
+.icon.rss{
+    width: 15px;
+    height: 15px;
+    background-position: -413px 0;
+    margin-top: 5px;
+    margin-left: 7px;
+}
+.icon.kassy{
+    background-position: -240px -53px;
+    width: 156px;
+    height: 54px;
+    margin-top: 14px;
+}
+.icon.vk{
+    width: 18px;
+    height: 18px;
+    background-position: 0 -88px;
+    margin-right: 7px;
+}
+.icon.od{
+    width: 18px;
+    height: 18px;
+    background-position: -25px -88px;
+    margin-right: 7px;
+}
+.icon.fa{
+    width: 18px;
+    height: 18px;
+    background-position: -50px -88px;
+    margin-right: 7px;
+}
+.icon.tw{
+    width: 18px;
+    height: 18px;
+    background-position: -75px -88px;
+    margin-right: 7px;
+}
+.icon.yu{
+    width: 18px;
+    height: 18px;
+    background-position: -100px -88px;
+    margin-right: 7px;
+}
+.icon.f{
+    width: 18px;
+    height: 18px;
+    background-position: -125px -88px;
+    margin-right: 7px;
+}
+.icon.subscriptionicon{
+    width: 16px;
+    height: 11px;
+    background-position: 0px 0px;
+    margin-right: 9px;
+}
